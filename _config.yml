@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: Menlo Park
+subtitle: 技術的なこととか
 description:
-author: John Doe
+author: high5
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://tech.high5.science
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
